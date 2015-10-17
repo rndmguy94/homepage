@@ -1,0 +1,73 @@
+body
+{
+    /*margin-top: 0em;*/
+    background-color: black;
+    color: lightblue;
+    font-size: 14pt;
+}
+
+header
+{
+    left: 0; top: 0;
+    background-color: #222;
+    width: 100%;
+}
+header ul
+{
+    margin: 0;
+    padding: 0;
+}
+header li
+{
+    display: inline;
+    list-style-type: none;
+}
+#header
+{
+    
+}
+#title
+{
+    
+}
+#nav
+{
+    background-color: #222;
+    
+    border-bottom: solid 0.2em lightblue;
+}
+.float
+{
+    position: fixed;
+    left: 0px; top: 0px;
+}
+
+section
+{
+    
+}
+/*ul
+{
+    padding: 0px;
+    margin-left: -1em; margin-right: -1em;
+}
+li
+{
+    list-style: none;
+    padding: 0.5em;
+    border-left: solid 0.2em lightblue;
+}
+li:hover
+{
+    background-color: #777;
+    color: rgb(64,192,225);
+    
+    border-left: solid 0.2em rgb(64,192,225);
+}*/
+
+footer
+{
+    background-color: #222;
+    
+    padding: 1em;
+}
